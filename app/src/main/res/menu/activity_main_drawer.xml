@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_inc"
+            android:title="Income" />
+        <item
+            android:id="@+id/nav_save"
+
+            android:title="Savings" />
+        <item
+            android:id="@+id/nav_bill"
+
+            android:title="Costs" />
+
+    </group>
+
+</menu>
